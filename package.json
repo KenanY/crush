@@ -1,0 +1,21 @@
+{
+  "name": "crush",
+  "version": "0.0.0",
+  "description": "Simple Mediacrush command-line executable",
+  "keywords": [],
+  "repository": "KenanY/crush",
+  "license": "MIT",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "main": "bin/cmd.js",
+  "bin": {
+    "crush": "bin/cmd.js"
+  },
+  "files": [
+    "bin/cmd.js",
+    "LICENSE.txt"
+  ],
+  "dependencies": {
+    "mediacrush": "^0.0.1",
+    "minimist": "^0.0.8"
+  }
+}
