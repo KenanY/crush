@@ -1,6 +1,6 @@
 # crush
 
-Simple Mediacrush command-line executable.
+Simple MediaCrush command-line executable.
 
 ## Example
 
