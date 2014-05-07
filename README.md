@@ -1,5 +1,7 @@
 # crush
 
+[![Dependency Status](https://gemnasium.com/KenanY/crush.svg)](https://gemnasium.com/KenanY/crush)
+
 Simple MediaCrush command-line executable.
 
 ## Example
