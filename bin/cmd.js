@@ -24,7 +24,6 @@ mediacrush.uploadURL(argv._[0], function(err, data) {
   if (err) {
     throw err;
   }
-  process.stdout.write('\n');
   process.stdout.write('https://mediacru.sh/' + data.hash);
   process.stdout.write('\n');
 });
